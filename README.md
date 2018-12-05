@@ -5,4 +5,4 @@ Fiz esta pratica antes mesmo de entender Deep-Learning na teoria, depois que ent
 
 Oliveira, Minas Gerais, Brasil - 02/12/2018 [PyBrain]
 
-Oliveira, Minas Gerais, Brasil - 05/12/2018 [Keras]
+Oliveira, Minas Gerais, Brasil - 05/12/2018 [Keras], [Bots]
